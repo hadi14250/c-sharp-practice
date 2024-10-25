@@ -16,7 +16,6 @@ namespace StringFormating
             Console.WriteLine("{0:D} | {0:N} | {0:F} | {0:G} | {0:C}", val1);
             Console.WriteLine("{0:E} | {0:N} | {0:F} | {0:G} | {0:C}", val2);
 
-
             Console.WriteLine("");
             Console.WriteLine("{0:D} | {0:N} | {0:F} | {0:G} | {0:C}", val1);
             Console.WriteLine("{0:D6} | {0:N2} | {0:F1} | {0:G3} | {0:C4}", val1);
